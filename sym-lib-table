@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "SSD Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/877791001/KiCADv6/2025-01-23_00-25-19.kicad_sym")(options "")(descr ""))
   (lib (name "MiniSAS HD")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2227595-1/2227595-1.kicad_sym")(options "")(descr ""))
+  (lib (name "Molex Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/350211_1/KiCADv6/2025-01-25_02-10-06.kicad_sym")(options "")(descr ""))
 )
