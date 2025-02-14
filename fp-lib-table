@@ -2,6 +2,6 @@
   (version 7)
   (lib (name "SSD Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/877791001/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "Mini SAS HD")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2227595-1")(options "")(descr ""))
-  (lib (name "Molex Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/350211_1/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "Mini SAS")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1888020_4/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "4Pin ATX Molex")(type "KiCad")(uri "${KIPRJMOD}/Libraries/350211_1/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
